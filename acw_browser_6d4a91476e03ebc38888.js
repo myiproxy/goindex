@@ -4001,7 +4001,7 @@
             DL_REDPACKET_TEST: "dl_redpacket_test",
             KL_U: "scapes_kl_u"
         }, Ne = [], We = r(285), Me = r.n(We), Be = /^(\/[a-z]+)/, Qe = function(e) {
-            var t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : "s1.ax1x.com";
+            var t = arguments.length > 1 && void 0 !== arguments[1] ? arguments[1] : "cdn.jsdelivr.net";
             if (!Me()(e))
                 return "";
             var r = e;
